@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		70A9B5212525C203005CD791 /* HealthySnacksClassifier.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 70A9B5202525C203005CD791 /* HealthySnacksClassifier.mlmodel */; };
+		70EFA3CF2528C41B00039C2C /* HealthySnacksClassifier.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 70EFA3CE2528C41B00039C2C /* HealthySnacksClassifier.mlmodel */; };
 		A00E828E251EE30B0036EA3E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00E828D251EE30B0036EA3E /* AppDelegate.swift */; };
 		A00E8290251EE30B0036EA3E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00E828F251EE30B0036EA3E /* SceneDelegate.swift */; };
 		A00E8292251EE30B0036EA3E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00E8291251EE30B0036EA3E /* ViewController.swift */; };
@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		70A9B5202525C203005CD791 /* HealthySnacksClassifier.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = HealthySnacksClassifier.mlmodel; sourceTree = "<group>"; };
+		70EFA3CE2528C41B00039C2C /* HealthySnacksClassifier.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = HealthySnacksClassifier.mlmodel; sourceTree = "<group>"; };
 		A00E828A251EE30B0036EA3E /* HealthySnacks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HealthySnacks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A00E828D251EE30B0036EA3E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A00E828F251EE30B0036EA3E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -108,8 +108,8 @@
 				A00E8291251EE30B0036EA3E /* ViewController.swift */,
 				A00E8293251EE30B0036EA3E /* Main.storyboard */,
 				A00E8296251EE30C0036EA3E /* Assets.xcassets */,
-				70A9B5202525C203005CD791 /* HealthySnacksClassifier.mlmodel */,
 				A00E8298251EE30C0036EA3E /* LaunchScreen.storyboard */,
+				70EFA3CE2528C41B00039C2C /* HealthySnacksClassifier.mlmodel */,
 				A00E829B251EE30C0036EA3E /* Info.plist */,
 				A00E82C1251EE6210036EA3E /* VideoCapture.swift */,
 			);
@@ -266,9 +266,9 @@
 			files = (
 				A00E82C2251EE6210036EA3E /* VideoCapture.swift in Sources */,
 				A00E8292251EE30B0036EA3E /* ViewController.swift in Sources */,
-				70A9B5212525C203005CD791 /* HealthySnacksClassifier.mlmodel in Sources */,
 				A00E828E251EE30B0036EA3E /* AppDelegate.swift in Sources */,
 				A00E8290251EE30B0036EA3E /* SceneDelegate.swift in Sources */,
+				70EFA3CF2528C41B00039C2C /* HealthySnacksClassifier.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
